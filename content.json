@@ -2,8 +2,8 @@
     "sender": {
         "street": "Stationstraat",
         "number": 10,
-        "city": "1000",
-        "zipcode": null
+        "city": "Brussel",
+        "zipcode": 1000
     },
     "receiver": {
         "street": "Rue de la Filature"
